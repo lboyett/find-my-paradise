@@ -4,6 +4,16 @@ import ButtonList from "./components/ButtonList";
 const XMLParser = require("react-xml-parser");
 
 function App() {
+  const [continents, setContinents] = useState<string[]>([]);
+  const [landscape, setLandscape] = useState<string[]>([]);
+  const [cost, setCost] = useState<string[]>([]);
+
+  useEffect(() => {
+    console.log(continents);
+    console.log(landscape);
+    console.log(cost);
+  }, [continents, cost, landscape]);
+
   return (
     <div className="index-page">
       <div className="header-container">
@@ -25,6 +35,7 @@ function App() {
             "Australia",
           ]}
           title={"Continents"}
+          updateData={(res: string[]) => setContinents(res)}
         />
         <ButtonList
           buttonData={[
@@ -36,6 +47,7 @@ function App() {
             "Farmland",
           ]}
           title={"Landscape & Scenery"}
+          updateData={(res: string[]) => setLandscape(res)}
         />
         <ButtonList
           buttonData={[
@@ -46,6 +58,7 @@ function App() {
             "$10k+",
           ]}
           title={"Monthly Cost of Living"}
+          updateData={(res: string[]) => setCost(res)}
         />
       </div>
     </div>
