@@ -6,6 +6,7 @@ const CostSchema = new Schema({
   state: { type: String, required: false },
   country: { type: String, required: true },
   costIndex: { type: Number, required: true },
+  code: { type: String, required: false },
 });
 
 // Virtual for book's URL

@@ -17,6 +17,7 @@ function Results(props: props) {
     setLandscapes(props.results.landscape);
     setCosts(props.results.cost);
   }, [props.results]);
+
   if (continents != undefined) {
     return (
       <div className="results">

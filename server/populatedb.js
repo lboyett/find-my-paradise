@@ -17,9 +17,7 @@ db.on("open", () =>
 
 async function parseCostData() {
   try {
-    const res = await csv({ maxRowLength: 10 }).fromFile(
-      "./public/files/cost.csv"
-    );
+    const res = await csv().fromFile("./public/files/cost.csv");
     const parsed = await res.map((item, i) => {
       let [city, country, usa] = item.City.split(",");
       if (usa) {
@@ -46,6 +44,33 @@ async function parseCostData() {
   }
 }
 
+async function parseCodesData() {
+  try {
+    const res = await csv().fromFile("./public/files/country-codes.csv");
+    return res;
+  } catch (err) {
+    console.error(err);
+  }
+}
+
+async function addCountryCode() {
+  try {
+    const codes = await parseCodesData();
+    codes.forEach((code) => {
+      db.collection("costs").updateMany(
+        { country: code.Name },
+        { $set: { code: code.Code } },
+        { upsert: false }
+      );
+    });
+    console.log(codes);
+  } catch (err) {
+    console.error(err);
+  }
+}
+
+addCountryCode();
+
 async function saveCostData() {
   try {
     const data = await parseCostData();
@@ -54,13 +79,19 @@ async function saveCostData() {
     console.error(err);
   }
 }
-
-saveCostData();
-
-function logCostData() {
-  parseCostData()
-    .then((res) => {
-      console.log(res[0]);
-    })
-    .catch((err) => console.log(err));
+async function logCostData() {
+  try {
+    const data = await Cost.find({ country: "United States" });
+    console.log(data);
+  } catch (err) {
+    console.error(err);
+  }
 }
+
+// logCostData();
+
+db.costs.updateMany(
+  { country: "Brunei" },
+  { $set: { code: "BN" } },
+  { upsert: false }
+);

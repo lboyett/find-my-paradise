@@ -1,0 +1,536 @@
+__v,_id,city,code,costIndex,country,state
+0,63d7bc9e172b2a5a66538b01,Basel,CH,126.89,Switzerland,
+0,63d7bc9e172b2a5a66538aff,Hamilton,BM,137.56,Bermuda,
+0,63d7bc9e172b2a5a66538b00,Zurich,CH,128.65,Switzerland,
+0,63d7bc9e172b2a5a66538b04,Geneva,CH,118.33,Switzerland,
+0,63d7bc9e172b2a5a66538b05,Reykjavik,IS,112.57,Iceland,
+0,63d7bc9e172b2a5a66538b06,Lugano,CH,111.88,Switzerland,
+0,63d7bc9e172b2a5a66538b07,Stavanger,NO,111,Norway,
+0,63d7bc9e172b2a5a66538b08,Oslo,NO,107.14,Norway,
+0,63d7bc9e172b2a5a66538b09,Bergen,NO,102.87,Norway,
+0,63d7bc9e172b2a5a66538b02,Lausanne,CH,119.62,Switzerland,
+0,63d7bc9e172b2a5a66538b0b,Trondheim,NO,99.73,Norway,
+0,63d7bc9e172b2a5a66538b0c,San Francisco,US,96.88,United States,CA
+0,63d7bc9e172b2a5a66538b0d,Honolulu,US,93.72,United States,HI
+0,63d7bc9e172b2a5a66538b03,Bern,CH,118.42,Switzerland,
+0,63d7bc9e172b2a5a66538b0f,Brooklyn,US,90.31,United States,NY
+0,63d7bc9e172b2a5a66538b10,Washington,US,88.5,United States,DC
+0,63d7bc9e172b2a5a66538b11,Santa Rosa,US,88.27,United States,CA
+0,63d7bc9e172b2a5a66538b12,Copenhagen,DK,87.91,Denmark,
+0,63d7bc9e172b2a5a66538b13,Charleston,US,86.87,United States,SC
+0,63d7bc9e172b2a5a66538b14,Luxembourg,LU,86.85,Luxembourg,
+0,63d7bc9e172b2a5a66538b15,Bellevue,US,85.97,United States,WA
+0,63d7bc9e172b2a5a66538b16,Seattle,US,85.51,United States,WA
+0,63d7bc9e172b2a5a66538b17,Tokyo,JP,84.78,Japan,
+0,63d7bc9e172b2a5a66538b18,Paris,FR,84.68,France,
+0,63d7bc9e172b2a5a66538b19,Odense,DK,84.09,Denmark,
+0,63d7bc9e172b2a5a66538b0a,New York,US,100,United States,NY
+0,63d7bc9e172b2a5a66538b1b,Jersey City,US,84.08,United States,NJ
+0,63d7bc9e172b2a5a66538b1c,Aalborg,DK,82.21,Denmark,
+0,63d7bc9e172b2a5a66538b1d,Amsterdam,NL,82.14,Netherlands,
+0,63d7bc9e172b2a5a66538b1e,Seoul,KR,81.96,South Korea,
+0,63d7bc9e172b2a5a66538b0e,Anchorage,US,93.19,United States,AK
+0,63d7bc9e172b2a5a66538b20,London,GB,81.31,United Kingdom,
+0,63d7bc9e172b2a5a66538b21,Oakland,US,81.18,United States,CA
+0,63d7bc9e172b2a5a66538b22,Helsinki,FI,80.6,Finland,
+0,63d7bc9e172b2a5a66538b23,Boston,US,80.46,United States,MA
+0,63d7bc9e172b2a5a66538b24,Singapore,SG,80.4,Singapore,
+0,63d7bc9e172b2a5a66538b25,Dublin,IE,80.28,Ireland,
+0,63d7bc9e172b2a5a66538b26,Sydney,AU,79.93,Australia,
+0,63d7bc9e172b2a5a66538b27,Hartford,US,79.85,United States,CT
+0,63d7bc9e172b2a5a66538b29,Philadelphia,US,79.25,United States,PA
+0,63d7bc9e172b2a5a66538b2b,Milton Keynes,GB,78.5,United Kingdom,
+0,63d7bc9e172b2a5a66538b28,Albany,US,79.38,United States,NY
+0,63d7bc9e172b2a5a66538b2a,Tampere,FI,79.04,Finland,
+0,63d7bc9e172b2a5a66538b2c,Grenoble,FR,78.43,France,
+0,63d7bc9e172b2a5a66538b2d,Irvine,US,78.38,United States,CA
+0,63d7bc9e172b2a5a66538b2e,Lyon,FR,78,France,
+0,63d7bc9e172b2a5a66538b2f,Long Beach,US,77.95,United States,CA
+0,63d7bc9e172b2a5a66538b30,Linz,AT,77.8,Austria,
+0,63d7bc9e172b2a5a66538b1a,Berkeley,US,84.09,United States,CA
+0,63d7bc9e172b2a5a66538b32,Tel Aviv-Yafo,IL,77.39,Israel,
+0,63d7bc9e172b2a5a66538b33,Barrie,CA,77.37,Canada,
+0,63d7bc9e172b2a5a66538b34,Chicago,US,77.33,United States,IL
+0,63d7bc9e172b2a5a66538b35,Stockholm,SE,77.23,Sweden,
+0,63d7bc9e172b2a5a66538b36,Florence,IT,77.21,Italy,
+0,63d7bc9e172b2a5a66538b38,The Hague (Den Haag),NL,76.75,Netherlands,
+0,63d7bc9e172b2a5a66538b37,Boulder,US,77.16,United States,CO
+0,63d7bc9e172b2a5a66538b1f,Arhus,DK,81.94,Denmark,
+0,63d7bc9e172b2a5a66538b3a,Auckland,NZ,76.63,New Zealand,
+0,63d7bc9e172b2a5a66538b3b,Jerusalem,IL,76.62,Israel,
+0,63d7bc9e172b2a5a66538b3c,Bordeaux,FR,76.31,France,
+0,63d7bc9e172b2a5a66538b3d,Utrecht,NL,76.3,Netherlands,
+0,63d7bc9e172b2a5a66538b3e,Toulouse,FR,76.3,France,
+0,63d7bc9e172b2a5a66538b3f,San Jose,US,76.28,United States,CA
+0,63d7bc9e172b2a5a66538b40,Burlington,US,76.11,United States,VT
+0,63d7bc9e172b2a5a66538b41,Pittsburgh,US,76.04,United States,PA
+0,63d7bc9e172b2a5a66538b42,Nice,FR,75.84,France,
+0,63d7bc9e172b2a5a66538b43,Miami,US,75.83,United States,FL
+0,63d7bc9e172b2a5a66538b44,Brussels,BE,75.69,Belgium,
+0,63d7bc9e172b2a5a66538b45,Graz,AT,75.61,Austria,
+0,63d7bc9e172b2a5a66538b47,Sacramento,US,75.54,United States,CA
+0,63d7bc9e172b2a5a66538b46,Santa Barbara,US,75.55,United States,CA
+0,63d7bc9e172b2a5a66538b48,Strasbourg,FR,75.47,France,
+0,63d7bc9e172b2a5a66538b49,Genoa,IT,75.38,Italy,
+0,63d7bc9e172b2a5a66538b4b,Perth,AU,75.09,Australia,
+0,63d7bc9e172b2a5a66538b4c,Antwerp,BE,74.88,Belgium,
+0,63d7bc9e172b2a5a66538b4d,Portland,US,74.81,United States,ME
+0,63d7bc9e172b2a5a66538b4a,Gent,BE,75.27,Belgium,
+0,63d7bc9e172b2a5a66538b4e,West Palm Beach,US,74.79,United States,FL
+0,63d7bc9e172b2a5a66538b31,Los Angeles,US,77.66,United States,CA
+0,63d7bc9e172b2a5a66538b50,Innsbruck,AT,74.66,Austria,
+0,63d7bc9e172b2a5a66538b51,Leuven,BE,74.58,Belgium,
+0,63d7bc9e172b2a5a66538b53,Osaka,JP,74.53,Japan,
+0,63d7bc9e172b2a5a66538b54,Melbourne,AU,74.53,Australia,
+0,63d7bc9e172b2a5a66538b56,Everett,US,74.36,United States,WA
+0,63d7bc9e172b2a5a66538b57,Saskatoon,CA,74.26,Canada,
+0,63d7bc9e172b2a5a66538b52,Leiden,NL,74.56,Netherlands,
+0,63d7bc9e172b2a5a66538b39,Reading,GB,76.73,United Kingdom,
+0,63d7bc9e172b2a5a66538b55,Bath,GB,74.48,United Kingdom,
+0,63d7bc9e172b2a5a66538b59,Portland,US,74.17,United States,OR
+0,63d7bc9e172b2a5a66538b5b,Montpellier,FR,74.08,France,
+0,63d7bc9e172b2a5a66538b5a,Rotterdam,NL,74.08,Netherlands,
+0,63d7bc9e172b2a5a66538b5d,Milan,IT,73.89,Italy,
+0,63d7bc9e172b2a5a66538b5c,"St. John's",CA,74.05,Canada,NL
+0,63d7bc9e172b2a5a66538b5e,Maastricht,NL,73.87,Netherlands,
+0,63d7bc9e172b2a5a66538b5f,Baltimore,US,73.85,United States,MD
+0,63d7bc9e172b2a5a66538b60,Munich,DE,73.79,Germany,
+0,63d7bc9e172b2a5a66538b61,Espoo,FI,73.78,Finland,
+0,63d7bc9e172b2a5a66538b62,New Orleans,US,73.61,United States,LA
+0,63d7bc9e172b2a5a66538b63,Galway,IE,73.54,Ireland,
+0,63d7bc9e172b2a5a66538b65,Padova,IT,73.49,Italy,
+0,63d7bc9e172b2a5a66538b66,Haifa,IL,73.42,Israel,
+0,63d7bc9e172b2a5a66538b64,Cork,IE,73.53,Ireland,
+0,63d7bc9e172b2a5a66538b67,Charlotte,US,73.33,United States,NC
+0,63d7bc9e172b2a5a66538b68,Burlington,CA,73.13,Canada,
+0,63d7bc9e172b2a5a66538b69,Aberdeen,GB,73.02,United Kingdom,
+0,63d7bc9e172b2a5a66538b6a,Dusseldorf,DE,73,Germany,
+0,63d7bc9e172b2a5a66538b6b,Minneapolis,US,72.93,United States,MN
+0,63d7bc9e172b2a5a66538b70,Darwin,AU,72.47,Australia,
+0,63d7bc9e172b2a5a66538b6c,Adelaide,AU,72.92,Australia,
+0,63d7bc9e172b2a5a66538b4f,Hong Kong,HK,74.73,Hong Kong,
+0,63d7bc9e172b2a5a66538b6f,Oxford,GB,72.6,United Kingdom,
+0,63d7bc9e172b2a5a66538b6d,Eindhoven,NL,72.82,Netherlands,
+0,63d7bc9e172b2a5a66538b6e,Cambridge,GB,72.6,United Kingdom,
+0,63d7bc9e172b2a5a66538b72,Nantes,FR,72.37,France,
+0,63d7bc9e172b2a5a66538b77,Bellingham,US,72.14,United States,WA
+0,63d7bc9e172b2a5a66538b58,Tacoma,US,74.21,United States,WA
+0,63d7bc9e172b2a5a66538b79,Denver,US,72.02,United States,CO
+0,63d7bc9e172b2a5a66538b74,San Diego,US,72.29,United States,CA
+0,63d7bc9e172b2a5a66538b73,Groningen,NL,72.29,Netherlands,
+0,63d7bc9e172b2a5a66538b75,Ramat Gan,IL,72.15,Israel,
+0,63d7bc9e172b2a5a66538b76,Hamburg,DE,72.15,Germany,
+0,63d7bc9e172b2a5a66538b7b,Hamilton,NZ,71.91,New Zealand,
+0,63d7bc9e172b2a5a66538b7c,Birmingham,US,71.87,United States,AL
+0,63d7bc9e172b2a5a66538b7d,Frankfurt,DE,71.64,Germany,
+0,63d7bc9e172b2a5a66538b7a,Saint Paul,US,71.94,United States,MN
+0,63d7bc9e172b2a5a66538b7e,Wellington,NZ,71.52,New Zealand,
+0,63d7bc9e172b2a5a66538b7f,Asheville,US,71.52,United States,NC
+0,63d7bc9e172b2a5a66538b80,Trieste,IT,71.51,Italy,
+0,63d7bc9e172b2a5a66538b81,Fort Myers,US,71.5,United States,FL
+0,63d7bc9e172b2a5a66538b82,Newcastle,AU,71.42,Australia,
+0,63d7bc9e172b2a5a66538b83,Portsmouth,GB,71.04,United Kingdom,
+0,63d7bc9e172b2a5a66538b84,Halifax,CA,70.88,Canada,
+0,63d7bc9e172b2a5a66538b85,Vienna,AT,70.86,Austria,
+0,63d7bc9e172b2a5a66538b86,Heidelberg,DE,70.82,Germany,
+0,63d7bc9e172b2a5a66538b87,Indianapolis,US,70.79,United States,IN
+0,63d7bc9e172b2a5a66538b88,Edinburgh,GB,70.73,United Kingdom,
+0,63d7bc9e172b2a5a66538b89,Jacksonville,US,70.62,United States,FL
+0,63d7bc9e172b2a5a66538b71,Eugene,US,72.46,United States,OR
+0,63d7bc9e172b2a5a66538b8b,Olympia,US,70.57,United States,WA
+0,63d7bc9e172b2a5a66538b8c,Saint Petersburg,US,70.49,United States,FL
+0,63d7bc9e172b2a5a66538b8d,Austin,US,70.49,United States,TX
+0,63d7bc9e172b2a5a66538b8e,Brisbane,AU,70.46,Australia,
+0,63d7bc9e172b2a5a66538b8f,Male,MV,70.45,Maldives,
+0,63d7bc9e172b2a5a66538b90,Sliema,MT,70.33,Malta,
+0,63d7bc9e172b2a5a66538b91,Rochester,US,70.25,United States,NY
+0,63d7bc9e172b2a5a66538b92,Christchurch,NZ,70.23,New Zealand,
+0,63d7bc9e172b2a5a66538b93,Toronto,CA,70.19,Canada,
+0,63d7bc9e172b2a5a66538b94,Orlando,US,70.18,United States,FL
+0,63d7bc9e172b2a5a66538b95,Dunedin,NZ,70.16,New Zealand,
+0,63d7bc9e172b2a5a66538b97,Plymouth,GB,70.02,United Kingdom,
+0,63d7bc9e172b2a5a66538b96,Turku,FI,70.13,Finland,
+0,63d7bc9e172b2a5a66538b98,Swindon,GB,69.92,United Kingdom,
+0,63d7bc9e172b2a5a66538b78,Atlanta,US,72.05,United States,GA
+0,63d7bc9e172b2a5a66538b9a,Manchester,GB,69.86,United Kingdom,
+0,63d7bc9e172b2a5a66538b9b,Peoria,US,69.84,United States,IL
+0,63d7bc9e172b2a5a66538b9c,Gothenburg,SE,69.77,Sweden,
+0,63d7bc9e172b2a5a66538b9e,Vancouver,CA,69.63,Canada,
+0,63d7bc9e172b2a5a66538b9d,Cleveland,US,69.65,United States,OH
+0,63d7bc9e172b2a5a66538b9f,Limerick,IE,69.63,Ireland,
+0,63d7bc9e172b2a5a66538ba1,Brighton,GB,69.54,United Kingdom,
+0,63d7bc9e172b2a5a66538ba0,Bristol,GB,69.58,United Kingdom,
+0,63d7bc9e172b2a5a66538ba2,Bologna,IT,69.5,Italy,
+0,63d7bc9e172b2a5a66538ba3,York,GB,69.33,United Kingdom,
+0,63d7bc9e172b2a5a66538ba4,Karlsruhe,DE,69.26,Germany,
+0,63d7bc9e172b2a5a66538ba5,Raleigh,US,69.18,United States,NC
+0,63d7bc9e172b2a5a66538ba6,Bonn,DE,69.14,Germany,
+0,63d7bc9e172b2a5a66538ba8,Arlington,US,69.07,United States,TX
+0,63d7bc9e172b2a5a66538ba7,Hobart,AU,69.1,Australia,
+0,63d7bc9e172b2a5a66538ba9,Rome,IT,69.03,Italy,
+0,63d7bc9e172b2a5a66538baa,Saint Louis,US,69.02,United States,MO
+0,63d7bc9e172b2a5a66538bab,Bremen,DE,68.93,Germany,
+0,63d7bc9e172b2a5a66538bae,Brampton,CA,68.79,Canada,
+0,63d7bc9e172b2a5a66538bad,Milwaukee,US,68.81,United States,WI
+0,63d7bc9e172b2a5a66538bac,Calgary,CA,68.93,Canada,
+0,63d7bc9e172b2a5a66538bb0,Uppsala,SE,68.75,Sweden,
+0,63d7bc9e172b2a5a66538bb1,Tampa,US,68.61,United States,FL
+0,63d7bc9e172b2a5a66538b8a,Buffalo,US,70.59,United States,NY
+0,63d7bc9e172b2a5a66538baf,Nashville,US,68.78,United States,TN
+0,63d7bc9e172b2a5a66538bb2,Regina,CA,68.46,Canada,
+0,63d7bc9e172b2a5a66538bb3,Mannheim,DE,68.35,Germany,
+0,63d7bc9e172b2a5a66538bbb,Red Deer,CA,67.42,Canada,
+0,63d7bc9e172b2a5a66538bbc,Cologne,DE,67.36,Germany,
+0,63d7bc9e172b2a5a66538bb5,Virginia Beach,US,67.86,United States,VA
+0,63d7bc9e172b2a5a66538bbd,Aachen,DE,67.33,Germany,
+0,63d7bc9e172b2a5a66538bb7,Lille,FR,67.73,France,
+0,63d7bc9e172b2a5a66538bba,Coquitlam,CA,67.43,Canada,
+0,63d7bc9e172b2a5a66538bbf,Bakersfield,US,67.11,United States,CA
+0,63d7bc9e172b2a5a66538bb6,Berlin,DE,67.75,Germany,
+0,63d7bc9e172b2a5a66538bb9,Stuttgart,DE,67.46,Germany,
+0,63d7bc9e172b2a5a66538bc2,Edmonton,CA,67.03,Canada,
+0,63d7bc9e172b2a5a66538bc3,Las Vegas,US,66.98,United States,NV
+0,63d7bc9e172b2a5a66538bb8,Syracuse,US,67.55,United States,NY
+0,63d7bc9e172b2a5a66538bc4,Columbus,US,66.9,United States,OH
+0,63d7bc9e172b2a5a66538b99,Canberra,AU,69.88,Australia,
+0,63d7bc9e172b2a5a66538bc5,Turin,IT,66.68,Italy,
+0,63d7bc9e172b2a5a66538bc7,Kelowna,CA,66.6,Canada,
+0,63d7bc9e172b2a5a66538bc6,Spokane,US,66.6,United States,WA
+0,63d7bc9e172b2a5a66538bc0,Ann Arbor,US,67.06,United States,MI
+0,63d7bc9e172b2a5a66538bc8,Exeter,GB,66.56,United Kingdom,
+0,63d7bc9e172b2a5a66538bc1,Nottingham,GB,67.05,United Kingdom,
+0,63d7bc9e172b2a5a66538bca,Memphis,US,66.49,United States,TN
+0,63d7bc9e172b2a5a66538bc9,Glasgow,GB,66.5,United Kingdom,
+0,63d7bc9e172b2a5a66538bcb,Kingston,CA,66.45,Canada,
+0,63d7bc9e172b2a5a66538bcc,Nuremberg,DE,66.44,Germany,
+0,63d7bc9e172b2a5a66538bcd,Coventry,GB,66.31,United Kingdom,
+0,63d7bc9e172b2a5a66538bb4,Leeds,GB,68.26,United Kingdom,
+0,63d7bc9e172b2a5a66538bce,Columbia,US,66.23,United States,SC
+0,63d7bc9e172b2a5a66538bd0,Malmo,SE,66.14,Sweden,
+0,63d7bc9e172b2a5a66538bd1,Salem,US,66.04,United States,OR
+0,63d7bc9e172b2a5a66538bd2,Leipzig,DE,66.04,Germany,
+0,63d7bc9e172b2a5a66538bd3,Dresden,DE,65.92,Germany,
+0,63d7bc9e172b2a5a66538bd5,Dayton,US,65.84,United States,OH
+0,63d7bc9e172b2a5a66538bd4,Fort Wayne,US,65.88,United States,IN
+0,63d7bc9e172b2a5a66538bd6,San Juan,PR,65.79,Puerto Rico,
+0,63d7bc9e172b2a5a66538bbe,Tallahassee,US,67.24,United States,FL
+0,63d7bc9e172b2a5a66538bd7,Taipei,TW,65.75,Taiwan,
+0,63d7bc9e172b2a5a66538bd8,Kansas City,US,65.74,United States,MO
+0,63d7bc9e172b2a5a66538bdd,Palma de Mallorca,ES,65.17,Spain,
+0,63d7bc9e172b2a5a66538bde,Mississauga,CA,65.08,Canada,
+0,63d7bc9e172b2a5a66538bdf,Quebec City,CA,65.07,Canada,
+0,63d7bc9e172b2a5a66538bda,Oshawa,CA,65.44,Canada,
+0,63d7bc9e172b2a5a66538bdb,Nanaimo,CA,65.28,Canada,BC
+0,63d7bc9e172b2a5a66538be0,Norwich,GB,64.95,United Kingdom,
+0,63d7bc9e172b2a5a66538be1,Burnaby,CA,64.94,Canada,
+0,63d7bc9e172b2a5a66538be2,Fayetteville,US,64.84,United States,AR
+0,63d7bc9e172b2a5a66538be3,Naples,IT,64.82,Italy,
+0,63d7bc9e172b2a5a66538be4,Derby,GB,64.7,United Kingdom,
+0,63d7bc9e172b2a5a66538bdc,Fort Worth,US,65.19,United States,TX
+0,63d7bc9e172b2a5a66538be5,Marseille,FR,64.64,France,
+0,63d7bc9e172b2a5a66538be8,Richmond,US,64.56,United States,VA
+0,63d7bc9e172b2a5a66538be9,Gold Coast,AU,64.53,Australia,
+0,63d7bc9e172b2a5a66538be6,Kingston,JM,64.59,Jamaica,
+0,63d7bc9e172b2a5a66538be7,Hanover,DE,64.57,Germany,
+0,63d7bc9e172b2a5a66538beb,Birmingham,GB,64.46,United Kingdom,
+0,63d7bc9e172b2a5a66538bec,Windsor,CA,64.42,Canada,
+0,63d7bc9e172b2a5a66538bea,Greensboro,US,64.46,United States,NC
+0,63d7bc9e172b2a5a66538bed,Dallas,US,64.32,United States,TX
+0,63d7bc9e172b2a5a66538bee,Albuquerque,US,64.32,United States,NM
+0,63d7bc9e172b2a5a66538bef,Phoenix,US,64.31,United States,AZ
+0,63d7bc9e172b2a5a66538bf0,Southampton,GB,63.73,United Kingdom,
+0,63d7bc9e172b2a5a66538bf1,Gainesville,US,63.62,United States,FL
+0,63d7bc9e172b2a5a66538bf2,Montreal,CA,63.52,Canada,
+0,63d7bc9e172b2a5a66538bcf,Victoria,CA,66.17,Canada,
+0,63d7bc9e172b2a5a66538bf4,Tucson,US,63.35,United States,AZ
+0,63d7bc9e172b2a5a66538bf5,Madison,US,63.3,United States,WI
+0,63d7bc9e172b2a5a66538bf6,Chattanooga,US,63.28,United States,TN
+0,63d7bc9e172b2a5a66538bf7,Fresno,US,63.25,United States,CA
+0,63d7bc9e172b2a5a66538bf8,Wichita,US,63.18,United States,KS
+0,63d7bc9e172b2a5a66538bf9,Winnipeg,CA,63.15,Canada,
+0,63d7bc9e172b2a5a66538bfa,Cagliari,IT,63.15,Italy,
+0,63d7bc9e172b2a5a66538bfb,Salt Lake City,US,62.94,United States,UT
+0,63d7bc9e172b2a5a66538bfc,Ottawa,CA,62.88,Canada,
+0,63d7bc9e172b2a5a66538bfd,Doha,QA,62.81,Qatar,
+0,63d7bc9e172b2a5a66538bfe,Detroit,US,62.77,United States,MI
+0,63d7bc9e172b2a5a66538bff,Newcastle upon Tyne,GB,62.76,United Kingdom,
+0,63d7bc9e172b2a5a66538c00,Tulsa,US,62.67,United States,OK
+0,63d7bc9e172b2a5a66538c01,Cincinnati,US,62.65,United States,OH
+0,63d7bc9e172b2a5a66538c02,Sheffield,GB,62.64,United Kingdom,
+0,63d7bc9e172b2a5a66538c03,Belfast,GB,62.42,United Kingdom,
+0,63d7bc9e172b2a5a66538c04,Lubbock,US,62.4,United States,TX
+0,63d7bc9e172b2a5a66538c05,Taichung,TW,62.23,Taiwan,
+0,63d7bc9e172b2a5a66538c06,Des Moines,US,62.21,United States,IA
+0,63d7bc9e172b2a5a66538bd9,Leicester,GB,65.59,United Kingdom,
+0,63d7bc9e172b2a5a66538c08,Barcelona,ES,62.15,Spain,
+0,63d7bc9e172b2a5a66538c09,Cardiff,GB,62.12,United Kingdom,
+0,63d7bc9e172b2a5a66538c0a,Liverpool,GB,62,United Kingdom,
+0,63d7bc9e172b2a5a66538c0b,Abu Dhabi,AE,61.94,United Arab Emirates,
+0,63d7bc9e172b2a5a66538c0c,Oklahoma City,US,61.72,United States,OK
+0,63d7bc9e172b2a5a66538c0d,Palermo,IT,61.16,Italy,
+0,63d7bc9e172b2a5a66538c0e,Moncton,CA,61.15,Canada,
+0,63d7bc9e172b2a5a66538c0f,Nicosia,CY,60.97,Cyprus,
+0,63d7bc9e172b2a5a66538c10,Knoxville,US,60.97,United States,TN
+0,63d7bc9e172b2a5a66538c11,Beirut,LB,60.79,Lebanon,
+0,63d7bc9e172b2a5a66538c12,Hamilton,CA,60.75,Canada,
+0,63d7bc9e172b2a5a66538c13,Springfield,US,60.56,United States,MO
+0,63d7bc9e172b2a5a66538c14,Vancouver,US,60.46,United States,WA
+0,63d7bc9e172b2a5a66538c15,Athens,GR,60.44,Greece,
+0,63d7bc9e172b2a5a66538c16,Toledo,US,60.35,United States,OH
+0,63d7bc9e172b2a5a66538c17,Little Rock,US,60.31,United States,AR
+0,63d7bc9e172b2a5a66538c18,Louisville,US,60.24,United States,KY
+0,63d7bc9e172b2a5a66538c19,Madrid,ES,60.12,Spain,
+0,63d7bc9e172b2a5a66538c1a,Reno,US,59.84,United States,NV
+0,63d7bc9e172b2a5a66538c1b,Huntsville,US,59.8,United States,AL
+0,63d7bc9e172b2a5a66538c1c,Lexington,US,59.64,United States,KY
+0,63d7bc9e172b2a5a66538c1d,Port of Spain,TT,59.6,Trinidad And Tobago,
+0,63d7bc9e172b2a5a66538c1e,Boise,US,59.43,United States,ID
+0,63d7bc9e172b2a5a66538c1f,El Paso,US,59.37,United States,TX
+0,63d7bc9e172b2a5a66538c20,Surrey,CA,59.18,Canada,
+0,63d7bc9e172b2a5a66538c21,London,CA,59.15,Canada,
+0,63d7bc9e172b2a5a66538c22,Abbotsford,CA,58.95,Canada,
+0,63d7bc9e172b2a5a66538c23,Kitchener,CA,58.93,Canada,
+0,63d7bc9e172b2a5a66538c24,San Antonio,US,58.12,United States,TX
+0,63d7bc9e172b2a5a66538c25,Montevideo,UY,58.05,Uruguay,
+0,63d7bc9e172b2a5a66538c26,Zaragoza (Saragossa),ES,58,Spain,
+0,63d7bc9e172b2a5a66538c27,Thessaloniki,GR,57.97,Greece,
+0,63d7bc9e172b2a5a66538c28,San Jose,CR,57.84,Costa Rica,
+0,63d7bc9e172b2a5a66538c29,Limassol,CY,57.71,Cyprus,
+0,63d7bc9e172b2a5a66538c2a,Accra,GH,57.23,Ghana,
+0,63d7bc9e172b2a5a66538c2b,Kaohsiung,TW,56.44,Taiwan,
+0,63d7bc9e172b2a5a66538c2c,Ljubljana,SI,56.34,Slovenia,
+0,63d7bc9e172b2a5a66538c2d,Valencia,ES,55.27,Spain,
+0,63d7bc9e172b2a5a66538c2e,Manama,BH,55.23,Bahrain,
+0,63d7bc9e172b2a5a66538c2f,Tallinn,EE,55.23,Estonia,
+0,63d7bc9e172b2a5a66538c30,Panama City,PA,54.91,Panama,
+0,63d7bc9e172b2a5a66538c31,Amman,JO,54.72,Jordan,
+0,63d7bc9e172b2a5a66538c32,Seville (Sevilla),ES,54.7,Spain,
+0,63d7bc9e172b2a5a66538c33,Larnaca,CY,54.31,Cyprus,
+0,63d7bc9e172b2a5a66538c34,Lisbon,PT,54.16,Portugal,
+0,63d7bc9e172b2a5a66538c35,Alicante,ES,53.9,Spain,
+0,63d7bc9e172b2a5a66538c36,Split,HR,53.62,Croatia,
+0,63d7bc9e172b2a5a66538c37,Bangkok,TH,53.61,Thailand,
+0,63d7bc9e172b2a5a66538c38,Sharjah,AE,53.45,United Arab Emirates,
+0,63d7bc9e172b2a5a66538c39,Dubai,AE,53.32,United Arab Emirates,
+0,63d7bc9e172b2a5a66538c3a,Rijeka,HR,52.96,Croatia,
+0,63d7bc9e172b2a5a66538c3b,Zagreb,HR,52.2,Croatia,
+0,63d7bc9e172b2a5a66538c3c,Makati,PH,51.07,Philippines,
+0,63d7bc9e172b2a5a66538c3d,Coimbra,PT,51.07,Portugal,
+0,63d7bc9e172b2a5a66538c3e,Muscat,OM,51.04,Oman,
+0,63d7bc9e172b2a5a66538c3f,Al Khobar,SA,51.03,Saudi Arabia,
+0,63d7bc9e172b2a5a66538c40,Funchal,PT,50.9,Portugal,
+0,63d7bc9e172b2a5a66538c41,Riga,LV,50.82,Latvia,
+0,63d7bc9e172b2a5a66538bf3,Grand Rapids,US,63.47,United States,MI
+0,63d7bc9e172b2a5a66538c43,Shanghai,CN,50.41,China,
+0,63d7bc9e172b2a5a66538c44,Granada,ES,50.41,Spain,
+0,63d7bc9e172b2a5a66538c45,Malaga,ES,50.38,Spain,
+0,63d7bc9e172b2a5a66538c46,Santiago,CL,50.37,Chile,
+0,63d7bc9e172b2a5a66538c47,Jeddah (Jiddah),SA,49.99,Saudi Arabia,
+0,63d7bc9e172b2a5a66538c48,Addis Ababa,ET,49.96,Ethiopia,
+0,63d7bc9e172b2a5a66538c49,Tartu,EE,49.65,Estonia,
+0,63d7bc9e172b2a5a66538c4a,Havana,CU,49.52,Cuba,
+0,63d7bc9e172b2a5a66538c4b,Quito,EC,49.42,Ecuador,
+0,63d7bc9e172b2a5a66538c4c,Maribor,SI,49.3,Slovenia,
+0,63d7bc9e172b2a5a66538c4d,Santa Cruz de Tenerife,ES,48.69,Spain,
+0,63d7bc9e172b2a5a66538c4e,Riyadh,SA,48.68,Saudi Arabia,
+0,63d7bc9e172b2a5a66538c4f,Bratislava,SK,48.64,Slovakia,
+0,63d7bc9e172b2a5a66538c50,Braga,PT,48.55,Portugal,
+0,63d7bc9e172b2a5a66538c51,Ad Dammam,SA,48.43,Saudi Arabia,
+0,63d7bc9e172b2a5a66538c52,Vilnius,LT,48.31,Lithuania,
+0,63d7bc9e172b2a5a66538c53,Prague,CZ,48.02,Czech Republic,
+0,63d7bc9e172b2a5a66538c54,Bandar Seri Begawan,BN,48.01,Brunei,
+0,63d7bc9e172b2a5a66538c55,Harare,ZW,47.78,Zimbabwe,
+0,63d7bc9e172b2a5a66538c56,Las Palmas de Gran Canaria,ES,47.39,Spain,
+0,63d7bc9e172b2a5a66538c57,San Salvador,SV,47.22,El Salvador,
+0,63d7bc9e172b2a5a66538c07,Houston,US,62.16,United States,TX
+0,63d7bc9e172b2a5a66538c59,Baghdad,IQ,47.17,Iraq,
+0,63d7bc9e172b2a5a66538c5a,Phuket,TH,46.98,Thailand,
+0,63d7bc9e172b2a5a66538c5b,Klaipeda,LT,46.98,Lithuania,
+0,63d7bc9e172b2a5a66538c5c,Kosice,SK,46.27,Slovakia,
+0,63d7bc9e172b2a5a66538c5d,Pretoria,ZA,45.89,South Africa,
+0,63d7bc9e172b2a5a66538c5e,Santo Domingo,DO,45.88,Dominican Republic,
+0,63d7bc9e172b2a5a66538c5f,Kaunas,LT,45.88,Lithuania,
+0,63d7bc9e172b2a5a66538c60,Windhoek,NA,45.84,Namibia,
+0,63d7bc9e172b2a5a66538c61,Phnom Penh,KH,45.67,Cambodia,
+0,63d7bc9e172b2a5a66538c62,Johannesburg,ZA,45.51,South Africa,
+0,63d7bc9e172b2a5a66538c63,Osijek,HR,44.95,Croatia,
+0,63d7bc9e172b2a5a66538c64,Brno,CZ,44.59,Czech Republic,
+0,63d7bc9e172b2a5a66538c65,Moscow,RU,44.54,Russia,
+0,63d7bc9e172b2a5a66538c66,Selangor,MY,44.53,Malaysia,
+0,63d7bc9e172b2a5a66538c67,Campinas,BR,44.45,Brazil,
+0,63d7bc9e172b2a5a66538c68,Guatemala City,GT,44.39,Guatemala,
+0,63d7bc9e172b2a5a66538c69,Dar es Salaam,TZ,44.33,Tanzania,
+0,63d7bc9e172b2a5a66538c6a,Petaling Jaya,MY,44.31,Malaysia,
+0,63d7bc9e172b2a5a66538c6b,Sao Paulo,BR,44.16,Brazil,
+0,63d7bc9e172b2a5a66538c6c,Rio de Janeiro,BR,44.12,Brazil,
+0,63d7bc9e172b2a5a66538c6d,Brasilia,BR,44.02,Brazil,
+0,63d7bc9e172b2a5a66538c6e,Penang,MY,43.98,Malaysia,
+0,63d7bc9e172b2a5a66538c71,Gdansk,PL,42.82,Poland,
+0,63d7bc9e172b2a5a66538c70,Budapest,HU,43.74,Hungary,
+0,63d7bc9e172b2a5a66538c6f,Beijing,CN,43.88,China,
+0,63d7bc9e172b2a5a66538c72,Johor Bahru,MY,42.59,Malaysia,
+0,63d7bc9e172b2a5a66538c73,Pattaya,TH,42.53,Thailand,
+0,63d7bc9e172b2a5a66538c74,Irbil,IQ,42.51,Iraq,
+0,63d7bc9e172b2a5a66538c76,Warsaw,PL,42.32,Poland,
+0,63d7bc9e172b2a5a66538c75,Kuala Lumpur,MY,42.44,Malaysia,
+0,63d7bc9e172b2a5a66538c77,Shenzhen,CN,42.21,China,
+0,63d7bc9e172b2a5a66538c78,Kuching,MY,42.15,Malaysia,
+0,63d7bc9e172b2a5a66538c79,Kota Kinabalu,MY,42.15,Malaysia,
+0,63d7bc9e172b2a5a66538c7a,Peterborough,GB,41.93,United Kingdom,
+0,63d7bc9e172b2a5a66538c7d,Cape Town,ZA,41.58,South Africa,
+0,63d7bc9e172b2a5a66538c7b,Nairobi,KE,41.76,Kenya,
+0,63d7bc9e172b2a5a66538c80,Olomouc,CZ,41.27,Czech Republic,
+0,63d7bc9e172b2a5a66538c7e,Bali,ID,41.48,Indonesia,
+0,63d7bc9e172b2a5a66538c84,Ostrava,CZ,40.55,Czech Republic,
+0,63d7bc9e172b2a5a66538c7f,Lima,PE,41.47,Peru,
+0,63d7bc9e172b2a5a66538c7c,Jakarta,ID,41.6,Indonesia,
+0,63d7bc9e172b2a5a66538c81,Gdynia,PL,41.22,Poland,
+0,63d7bc9e172b2a5a66538c42,Porto,PT,50.43,Portugal,
+0,63d7bc9e172b2a5a66538c82,Recife,BR,40.67,Brazil,
+0,63d7bc9e172b2a5a66538c83,Porto Alegre,BR,40.56,Brazil,
+0,63d7bc9e172b2a5a66538c87,Durban,ZA,40.48,South Africa,
+0,63d7bc9e172b2a5a66538c86,Belo Horizonte,BR,40.48,Brazil,
+0,63d7bc9e172b2a5a66538c88,Bucharest,RO,40.39,Romania,
+0,63d7bc9e172b2a5a66538c8a,Guangzhou,CN,40.29,China,
+0,63d7bc9e172b2a5a66538c8c,Belgrade,RS,40.1,Serbia,
+0,63d7bc9e172b2a5a66538c89,Sofia,BG,40.36,Bulgaria,
+0,63d7bc9e172b2a5a66538c8d,Wroclaw,PL,40,Poland,
+0,63d7bc9e172b2a5a66538c8f,Krakow (Cracow),PL,39.53,Poland,
+0,63d7bc9e172b2a5a66538c8e,Podgorica,ME,39.83,Montenegro,
+0,63d7bc9e172b2a5a66538c92,Sarajevo,BA,39.25,Bosnia And Herzegovina,
+0,63d7bc9e172b2a5a66538c90,Port Elizabeth,ZA,39.41,South Africa,
+0,63d7bc9e172b2a5a66538c91,Saint Petersburg,RU,39.25,Russia,
+0,63d7bc9e172b2a5a66538c93,Varna,BG,39.13,Bulgaria,
+0,63d7bc9e172b2a5a66538c58,Guayaquil,EC,47.21,Ecuador,
+0,63d7bc9e172b2a5a66538c8b,Florianopolis,BR,40.26,Brazil,
+0,63d7bc9e172b2a5a66538c95,Constanta,RO,38.89,Romania,
+0,63d7bc9e172b2a5a66538c96,Rabat,MA,38.59,Morocco,
+0,63d7bc9e172b2a5a66538c97,Buenos Aires,AR,38.57,Argentina,
+0,63d7bc9e172b2a5a66538c98,Bydgoszcz,PL,38.54,Poland,
+0,63d7bc9e172b2a5a66538c99,Szeged,HU,38.41,Hungary,
+0,63d7bc9e172b2a5a66538c9a,Hanoi,VN,38.34,Vietnam,
+0,63d7bc9e172b2a5a66538c9b,Curitiba,BR,38.34,Brazil,
+0,63d7bc9e172b2a5a66538c9c,Timisoara,RO,38.19,Romania,
+0,63d7bc9e172b2a5a66538c9d,Cluj-Napoca,RO,38.13,Romania,
+0,63d7bc9e172b2a5a66538c9e,Debrecen,HU,38.05,Hungary,
+0,63d7bc9e172b2a5a66538c9f,Suzhou,CN,37.95,China,
+0,63d7bc9e172b2a5a66538ca0,Manila,PH,37.95,Philippines,
+0,63d7bc9e172b2a5a66538ca1,Istanbul,TR,37.85,Turkey,
+0,63d7bc9e172b2a5a66538ca2,Ho Chi Minh City,VN,37.82,Vietnam,
+0,63d7bc9e172b2a5a66538ca3,Katowice,PL,37.48,Poland,
+0,63d7bc9e172b2a5a66538ca4,Szczecin,PL,37.35,Poland,
+0,63d7bc9e172b2a5a66538ca5,Chelyabinsk,RU,37.29,Russia,
+0,63d7bc9e172b2a5a66538ca6,Tirana,AL,37.25,Albania,
+0,63d7bc9e172b2a5a66538ca7,Lodz,PL,37.13,Poland,
+0,63d7bc9e172b2a5a66538ca8,Brasov,RO,37.13,Romania,
+0,63d7bc9e172b2a5a66538ca9,Banja Luka,BA,36.54,Bosnia And Herzegovina,
+0,63d7bc9e172b2a5a66538caa,Iasi,RO,36.54,Romania,
+0,63d7bc9e172b2a5a66538cab,Plovdiv,BG,36.45,Bulgaria,
+0,63d7bc9e172b2a5a66538cac,Cebu,PH,36.41,Philippines,
+0,63d7bc9e172b2a5a66538cad,Yekaterinburg,RU,36.41,Russia,
+0,63d7bc9e172b2a5a66538cae,Burgas,BG,36.26,Bulgaria,
+0,63d7bc9e172b2a5a66538caf,Chengdu,CN,36.16,China,
+0,63d7bc9e172b2a5a66538cb0,Cuenca,EC,36.13,Ecuador,
+0,63d7bc9e172b2a5a66538cb1,Lublin,PL,36.12,Poland,
+0,63d7bc9e172b2a5a66538cb2,Colombo,LK,36,Sri Lanka,
+0,63d7bc9e172b2a5a66538cb3,Samara,RU,35.96,Russia,
+0,63d7bc9e172b2a5a66538cb4,Arad,RO,35.84,Romania,
+0,63d7bc9e172b2a5a66538cb5,Surabaya,ID,35.72,Indonesia,
+0,63d7bc9e172b2a5a66538cb6,Casablanca,MA,35.68,Morocco,
+0,63d7bc9e172b2a5a66538cb7,Sibiu,RO,35.63,Romania,
+0,63d7bc9e172b2a5a66538cb8,Bandung,ID,35.58,Indonesia,
+0,63d7bc9e172b2a5a66538cb9,Paramaribo,SR,35.45,Suriname,
+0,63d7bc9e172b2a5a66538cba,Kaliningrad,RU,35.4,Russia,
+0,63d7bc9e172b2a5a66538cbb,Novi Sad,RS,35.36,Serbia,
+0,63d7bc9e172b2a5a66538cbc,Bogota,CO,35.05,Colombia,
+0,63d7bc9e172b2a5a66538cbd,Yogyakarta,ID,34.91,Indonesia,
+0,63d7bc9e172b2a5a66538cbe,Astana,KZ,34.9,Kazakhstan,
+0,63d7bc9e172b2a5a66538cbf,Ankara,TR,34.77,Turkey,
+0,63d7bc9e172b2a5a66538cc0,Skopje,MK,34.68,Macedonia,
+0,63d7bc9e172b2a5a66538cc1,Oradea,RO,34.35,Romania,
+0,63d7bc9e172b2a5a66538cc2,Nis,RS,34.2,Serbia,
+0,63d7bc9e172b2a5a66538cc3,Tehran,IR,34.19,Iran,
+0,63d7bc9e172b2a5a66538cc4,Mexico City,MX,34.18,Mexico,
+0,63d7bc9e172b2a5a66538cc5,Ulaanbaatar,MN,34.16,Mongolia,
+0,63d7bc9e172b2a5a66538cc6,Monterrey,MX,34.12,Mexico,
+0,63d7bc9e172b2a5a66538cc7,Minsk,BY,34.07,Belarus,
+0,63d7bc9e172b2a5a66538cc8,Nizhny Novgorod,RU,34.04,Russia,
+0,63d7bc9e172b2a5a66538cc9,Barranquilla,CO,34.04,Colombia,
+0,63d7bc9e172b2a5a66538cca,Izmir,TR,34.03,Turkey,
+0,63d7bc9e172b2a5a66538ccb,Medellin,CO,33.82,Colombia,
+0,63d7bc9e172b2a5a66538ccc,Antalya,TR,33.78,Turkey,
+0,63d7bc9e172b2a5a66538ccd,Chisinau,MD,33.75,Moldova,
+0,63d7bc9e172b2a5a66538cce,Bursa,TR,33.72,Turkey,
+0,63d7bc9e172b2a5a66538ccf,Kazan,RU,33.67,Russia,
+0,63d7bc9e172b2a5a66538cd0,Novosibirsk,RU,33.65,Russia,
+0,63d7bc9e172b2a5a66538cd1,Davao,PH,33.57,Philippines,
+0,63d7bc9e172b2a5a66538cd2,Asuncion,PY,33.49,Paraguay,
+0,63d7bc9e172b2a5a66538cd3,Algiers,DZ,33.44,Algeria,
+0,63d7bc9e172b2a5a66538cd4,Lagos,NG,33.33,Nigeria,
+0,63d7bc9e172b2a5a66538cd5,Dumaguete,PH,33.21,Philippines,
+0,63d7bc9e172b2a5a66538cd6,Yerevan,AM,33.16,Armenia,
+0,63d7bc9e172b2a5a66538cd7,Tijuana,MX,32.7,Mexico,
+0,63d7bc9e172b2a5a66538cd8,Almaty,KZ,32.51,Kazakhstan,
+0,63d7bc9e172b2a5a66538cd9,Rostov-na-donu,RU,32.4,Russia,
+0,63d7bc9e172b2a5a66538cda,Krasnodar,RU,32.37,Russia,
+0,63d7bc9e172b2a5a66538cdb,Kathmandu,NP,31.89,Nepal,
+0,63d7bc9e172b2a5a66538cdc,Craiova,RO,31.78,Romania,
+0,63d7bc9e172b2a5a66538cdd,Voronezh,RU,31.74,Russia,
+0,63d7bc9e172b2a5a66538cde,Quezon City,PH,31.66,Philippines,
+0,63d7bc9e172b2a5a66538cdf,Dhaka,BD,31.57,Bangladesh,
+0,63d7bc9e172b2a5a66538ce0,Kampala,UG,31.51,Uganda,
+0,63d7bc9e172b2a5a66538ce1,Guadalajara,MX,31.46,Mexico,
+0,63d7bc9e172b2a5a66538ce2,Cancun,MX,31.35,Mexico,
+0,63d7bc9e172b2a5a66538ce3,Queretaro,MX,31.01,Mexico,
+0,63d7bc9e172b2a5a66538ce4,Gurgaon,IN,30.71,India,
+0,63d7bc9e172b2a5a66538ce5,Cali,CO,30.48,Colombia,
+0,63d7bc9e172b2a5a66538ce6,Tbilisi,GE,30.22,Georgia,
+0,63d7bc9e172b2a5a66538ce7,Odessa,UA,30.13,Ukraine,
+0,63d7bc9e172b2a5a66538ce8,Tashkent,UZ,29.94,Uzbekistan,
+0,63d7bc9e172b2a5a66538ce9,Puerto Vallarta,MX,29.82,Mexico,
+0,63d7bc9e172b2a5a66538cea,Kiev,UA,29.42,Ukraine,
+0,63d7bc9e172b2a5a66538ceb,Baku,AZ,29.41,Azerbaijan,
+0,63d7bc9e172b2a5a66538cec,Merida,MX,29.39,Mexico,
+0,63d7bc9e172b2a5a66538cee,Puebla,MX,28.89,Mexico,
+0,63d7bc9e172b2a5a66538ced,Mumbai,IN,29.03,India,
+0,63d7bc9e172b2a5a66538cef,Delhi,IN,28.67,India,
+0,63d7bc9e172b2a5a66538cf0,Noida,IN,28.55,India,
+0,63d7bc9e172b2a5a66538cf1,Dnipro,UA,27.96,Ukraine,
+0,63d7bc9e172b2a5a66538cf2,Caracas,VE,27.82,Venezuela,
+0,63d7bc9e172b2a5a66538cf3,Pune,IN,27.41,India,
+0,63d7bc9e172b2a5a66538cf4,Lviv,UA,27.24,Ukraine,
+0,63d7bc9e172b2a5a66538cf5,Ludhiana,IN,27.17,India,
+0,63d7bc9e172b2a5a66538cf7,Kharkiv,UA,26.71,Ukraine,
+0,63d7bc9e172b2a5a66538cf6,Bangalore,IN,26.83,India,
+0,63d7bc9e172b2a5a66538cf8,Tunis,TN,26.53,Tunisia,
+0,63d7bc9e172b2a5a66538cfa,Chandigarh,IN,26,India,
+0,63d7bc9e172b2a5a66538cfb,Islamabad,PK,25.86,Pakistan,
+0,63d7bc9e172b2a5a66538cfc,Lahore,PK,25.83,Pakistan,
+0,63d7bc9e172b2a5a66538cfe,Jaipur,IN,25.46,India,
+0,63d7bc9e172b2a5a66538cfd,Cairo,EG,25.68,Egypt,
+0,63d7bc9e172b2a5a66538cff,Indore,IN,25.4,India,
+0,63d7bc9e172b2a5a66538d00,Thane,IN,25.31,India,
+0,63d7bc9e172b2a5a66538d02,Kolkata,IN,24.8,India,
+0,63d7bc9e172b2a5a66538d03,Lucknow (Lakhnau),IN,24.75,India,
+0,63d7bc9e172b2a5a66538d01,Chennai,IN,25.2,India,
+0,63d7bc9e172b2a5a66538d04,Goa,IN,24.34,India,
+0,63d7bc9e172b2a5a66538d06,Alexandria,EG,23.92,Egypt,
+0,63d7bc9e172b2a5a66538d05,Ahmedabad,IN,24.24,India,
+0,63d7bc9e172b2a5a66538d07,Karachi,PK,23.9,Pakistan,
+0,63d7bc9e172b2a5a66538d08,Sumy,UA,23.84,Ukraine,
+0,63d7bc9e172b2a5a66538d09,Surat,IN,23.77,India,
+0,63d7bc9e172b2a5a66538d0a,Hyderabad,IN,23.59,India,
+0,63d7bc9e172b2a5a66538d0b,Nagpur,IN,22.76,India,
+0,63d7bc9e172b2a5a66538d0c,Guwahati,IN,22.68,India,
+0,63d7bc9e172b2a5a66538d0d,Mysore,IN,22.41,India,
+0,63d7bc9e172b2a5a66538d0e,Bhubaneswar,IN,22.4,India,
+0,63d7bc9e172b2a5a66538d0f,Mangalore,IN,22.4,India,
+0,63d7bc9e172b2a5a66538d10,Coimbatore,IN,22.38,India,
+0,63d7bc9e172b2a5a66538d11,Bhopal,IN,22.37,India,
+0,63d7bc9e172b2a5a66538d12,Vadodara,IN,22.28,India,
+0,63d7bc9e172b2a5a66538d13,Kochi,IN,21.73,India,
+0,63d7bc9e172b2a5a66538d14,Visakhapatnam,IN,21.52,India,
+0,63d7bc9e172b2a5a66538d15,Navi Mumbai,IN,19.3,India,
+0,63d7bc9e172b2a5a66538d16,Thiruvananthapuram,IN,19.26,India,
+0,63d7bc9e172b2a5a66538c85,Chiang Mai,TH,40.53,Thailand,
+0,63d7bc9e172b2a5a66538c94,Poznan,PL,38.99,Poland,

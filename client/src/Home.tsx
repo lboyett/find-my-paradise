@@ -42,7 +42,7 @@ function Home(props: props) {
           "Australia",
         ]}
         title={"Continents"}
-        updateData={(res: object) => setContinents(res)}
+        updateData={(res: string[]) => setContinents(res)}
       />
       <ButtonList
         buttonData={[
