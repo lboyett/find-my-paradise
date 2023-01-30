@@ -2,13 +2,13 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 const XMLParser = require("react-xml-parser");
 
-interface buttonData {
+interface props {
   buttonData: string[];
   title: string;
   updateData: Function;
 }
 
-function ButtonList(props: buttonData) {
+function ButtonList(props: props) {
   const [selected, setSelected] = useState<string[]>([]);
 
   function handleButtonClick(e: any, button: string) {
