@@ -58,7 +58,6 @@ code {
 
 .button-group {
   display: flex;
-  justify-content: rgba(0, 128, 0, 0.186) er;
   gap: 0.5em;
   margin: 1em;
 }
@@ -91,4 +90,14 @@ code {
 
 .selected-button:hover {
   cursor: pointer;
+}
+
+.search {
+  width: min-content;
+  margin: 1em auto;
+}
+
+.search:hover {
+  background-color: #4d4640;
+  border-color: #4d4640;
 }

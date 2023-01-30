@@ -7,7 +7,8 @@ router.get("/", function (req, res, next) {
 });
 
 router.post("/form-data", (req, res, next) => {
-  res.json("this is the form data");
+  console.log(req.body.headers);
+  res.json(req.body.headers);
 });
 
 module.exports = router;

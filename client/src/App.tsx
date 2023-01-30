@@ -3,16 +3,27 @@ import axios from "axios";
 import ButtonList from "./components/ButtonList";
 const XMLParser = require("react-xml-parser");
 
+const formDataURL = "http://localhost:8080/form-data";
+
 function App() {
   const [continents, setContinents] = useState<string[]>([]);
   const [landscape, setLandscape] = useState<string[]>([]);
   const [cost, setCost] = useState<string[]>([]);
 
-  useEffect(() => {
-    console.log(continents);
-    console.log(landscape);
-    console.log(cost);
-  }, [continents, cost, landscape]);
+  async function submitContents() {
+    try {
+      const res = await axios.post(formDataURL, {
+        headers: {
+          continents: continents,
+          landscape: landscape,
+          cost: cost,
+        },
+      });
+      console.log(res);
+    } catch (err) {
+      console.error(err);
+    }
+  }
 
   return (
     <div className="index-page">
@@ -60,6 +71,12 @@ function App() {
           title={"Monthly Cost of Living"}
           updateData={(res: string[]) => setCost(res)}
         />
+        <button
+          onClick={() => submitContents()}
+          className="selected-button search"
+        >
+          Search
+        </button>
       </div>
     </div>
   );
